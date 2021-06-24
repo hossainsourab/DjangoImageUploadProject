@@ -5,7 +5,7 @@ This Is Image Upload Project Django
 2. Install Django 
 3. pip install pillow 
 4. Some Changes Setting.py File
-    MEDIA_URL = '/media/'
-    MEDIA_ROOT = BASE_DIR / 'media'
+    a. MEDIA_URL = '/media/'
+    b. MEDIA_ROOT = BASE_DIR / 'media'
 
 
